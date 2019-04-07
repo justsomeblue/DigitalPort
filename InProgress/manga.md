@@ -5,10 +5,10 @@ A collaboration with my friend [aihara_art]( https://www.instagram.com/aihara_ar
 ### What is it?
 
 This is a manga idea I had a long time ago but lacked the confidence or skill level to pull off. Now, together with Aihara I will be working as the author and he will be working as the illustrator.
-##Concept art! 
--photo
--photo
--photo
+## Concept art! 
+- photo
+- photo
+- photo
 
 
 ## Plot summery
