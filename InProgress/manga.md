@@ -1,37 +1,17 @@
 ## My Best Friend Is The Main Character
 
-You can use the [editor on GitHub](https://github.com/justsomeblue/DigitalPort/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A collaboration with my friend [aihara_art]( https://www.instagram.com/aihara_art/?hl=en) inspired by the group work in IASC 1F01. This class has helped me gain confidence in my leadership and team skills, and so I agreed to this collaboration and plan to see it through to the very end.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###What is it?
 
-### Markdown
+This is a manga idea I had a long time ago but lacked the confidence or skill level to pull off. Now, together with Aihara I will be working as the author and he will be working as the illustrator.
+##Concept art! 
+-photo
+-photo
+-photo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##Plot summery
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justsomeblue/DigitalPort/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Interested?
+If the idea of this story sounds interesting, you can support my friend and his art [HERE]( https://www.patreon.com/AiharaDrinksTea), both of us would appreciate it! And thank you again to Aihara for the collaboration.
