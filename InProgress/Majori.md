@@ -1,1 +1,2 @@
-
+# Majori
+Majori is a novel which has been in the works for a few years now, but without much progress. November of 2018 was the year I decided to participate in NaNoWriMo (national novel writing month). Though I never got very close to the suggested 50 000 words, I did learn a lot about self motivation and how motivating others can help motivate you. The important lesion I learned from this is to not expect perfection as a beginner, and just now important a “bad” first draft really is.
