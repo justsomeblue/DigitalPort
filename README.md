@@ -8,3 +8,5 @@ Hello, my name is Stephanie Csikasz. I am a student at brock university in Inter
 ### Completed works
 - [My Accidental Trip to India](FinishedProjects/india/home.html)
 - [My Art](FinishedProjects/Art.md)
+
+[Download my resume HERE](Resume/stephs%20resume.docx)
