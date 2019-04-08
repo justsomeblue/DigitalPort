@@ -2,11 +2,11 @@
 # My Art
 
 ### Submission for a music ablum cover (3rd place)
-![.](FinishedProjects/Images/jokcover.png)
+![.](Images/jokcover.png)
 
 ### Other art projects
-![.](FinishedProjects/Images/Cylfaer Berokas.jpg)
+![.](Images/Cylfaer%20Berokas.jpg)
 
-![.](FinishedProjects/Images/mermaid2.jpg)
+![.](Images/mermaid2.jpg)
 
-![.](FinishedProjects/Images/shady.jpg)
+![.](Images/shady.jpg)
