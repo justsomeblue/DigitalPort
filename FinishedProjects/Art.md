@@ -1,7 +1,7 @@
 
 # My Art
 
-### Submission for a music ablum cover (3rd place)
+### Submission for a music album cover (3rd place)
 ![.](Images/jokcover.png)
 
 ### Other art projects
